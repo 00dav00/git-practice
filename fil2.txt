@@ -1,2 +1,2 @@
-Conflicts
+Conflicts2
 Testing git
